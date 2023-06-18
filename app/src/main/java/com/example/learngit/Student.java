@@ -26,7 +26,7 @@ public class Student {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Student student = (Student) o;
-        return Objects.equals(studentID, student.studentID);
+        return studentID.equals(student.studentID);
     }
 
     @Override
