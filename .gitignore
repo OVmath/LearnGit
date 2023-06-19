@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 app/src/main/java/com/example/learngit/Other.java
+.idea/misc.xml
