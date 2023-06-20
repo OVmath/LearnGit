@@ -24,12 +24,6 @@ public class Student {
         return studentID;
     }
 
-    public void setStudentID(String studentID) {
-        this.studentID = studentID;
-    }
-
-
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
