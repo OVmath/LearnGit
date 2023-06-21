@@ -1,4 +1,4 @@
-package com.example.learngit;
+package com.example.learngit.model;
 
 public class Master {
     private String id;
