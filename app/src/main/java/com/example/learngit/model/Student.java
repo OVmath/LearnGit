@@ -1,4 +1,4 @@
-package com.example.learngit;
+package com.example.learngit.model;
 
 import java.util.Date;
 import java.util.Objects;
