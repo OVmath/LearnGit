@@ -6,4 +6,8 @@ data class User (
     val lastName:String,
     val email:String
 )
-
+//Code
+//Git merge
+//Fix conflict
+//Git add -> git commit
+//Want to cancel: git merge --abort
